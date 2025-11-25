@@ -83,4 +83,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-    Email: pratik.pati902@gmail.com
+    Email: damosar.tech@gmail.com
