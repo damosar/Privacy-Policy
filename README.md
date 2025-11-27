@@ -79,7 +79,49 @@ Our Service is not intended for children under 13 years of age. If you are under
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
 
-8. Contact Information
+8. User Rights and Account Deletion Policy
+
+We are committed to respecting your control over your personal information. You have the right to request the complete deletion of your account and all associated personal data at any time.
+
+a. Right to Permanent Data Deletion
+
+Upon receiving a verified deletion request, we will permanently delete your account and all personal information associated with it. This commitment means we delete all categories of user data, including:
+
+    User Identifiers: Name, email, phone number, and account login credentials.
+
+    Sensitive Data: All patient records, appointment history, chat logs, and other health-related information stored under your user ID.
+
+    Profile and Usage Data: Any uploaded profile photos, settings, and activity logs directly linked to your account.
+
+We do not retain any copies of personal user data after a deletion request has been fulfilled. We may only retain non-personal, aggregated, or anonymized usage data which cannot be linked back to you.
+
+b. How to Request Account Deletion
+
+Account and data deletion can be easily initiated through the following methods:
+
+    In-App Deletion:
+
+        Log in to the Hospicare app.
+
+        Navigate to the Profile or Settings section.
+
+        Select the 'Delete Account' button and confirm the action.
+
+    Web Request (Email):
+
+        If you are unable to access the in-app deletion button (e.g., if you have uninstalled the app), you may send a formal deletion request to our dedicated support email: damosar.tech@gmail.com.
+
+        Please include your account email address or username in the subject line or body of the email to help us verify your identity and process the request promptly.
+
+c. Deletion Timeline and Third-Party Notification
+
+    Timeline: Once your deletion request is verified, your account will be immediately deactivated. All associated data will be fully purged from our live production systems within 7 days.
+
+    Backups: Data may remain in our secure, encrypted backup systems for a maximum of 30 days before being permanently and irreversibly destroyed. During this backup period, the data is inactive, inaccessible for normal operations, and cannot be restored or used.
+
+    Third Parties: We will notify any third-party service providers (such as analytics or cloud storage partners) that processed your personal data to ensure they also delete the information as required by our agreements with them.
+   
+9. Contact Information
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
